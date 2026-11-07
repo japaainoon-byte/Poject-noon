@@ -1,4 +1,6 @@
 
-create page home
+
 create page setting
+Hi Ali
+
 
