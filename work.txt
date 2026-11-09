@@ -1,7 +1,11 @@
 
 
 create page setting
+<<<<<<< HEAD
 
+=======
+create Pag Home
+>>>>>>> Location
 
 
 
