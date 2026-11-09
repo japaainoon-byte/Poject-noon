@@ -1,9 +1,7 @@
 
 
 create page setting
-Hi Ali
-create pag home
-task
+
 
 
 
