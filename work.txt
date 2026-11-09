@@ -1,10 +1,7 @@
 
 
 create page setting
-Hi Ali
-create pag home
-task
-create pag group
+create Pag Home
 
 
 
