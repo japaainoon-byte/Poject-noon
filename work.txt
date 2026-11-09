@@ -5,6 +5,11 @@ create page setting
 
 =======
 create Pag Home
+<<<<<<< HEAD
+>>>>>>> Location
+=======
+Hi Noon
+
 >>>>>>> Location
 
 
