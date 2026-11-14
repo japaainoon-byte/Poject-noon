@@ -7,5 +7,7 @@ create page webview
 
 create page video
 
+create dashboard
+
 
 
