@@ -3,6 +3,3 @@ create page home
 create page video
 create dashboard
 create page login
-
-
-
